@@ -1,7 +1,7 @@
 *****************************************************************
 * ARCHIVO TODO PARA TENER SEGUIMIENTO DE LOS CAMBIOS POR HACER. *
 *****************************************************************
-* Estilo:                                             	        *
+* Estilo:                                                       *
 * - TODO en si. [Quien ha puesto la nota]                       *
 * ? Sugerencia. [Quien ha puesto la nota]                       *
 * Si se resuelve el TODO poner en la segunda seccion una nota   *
