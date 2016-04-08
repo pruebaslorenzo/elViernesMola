@@ -8,9 +8,9 @@
 * de lo resuelto y el nombre de quien la resolvio.              *
 * Asi si tenemos que contactar a alguien por algun problema     *
 * sera mas llevadero.                                           *
-* NO PONGAN TILDES. La codificacion difiere segun SO y 		      *
-* genera caracteres ilegibles					                          *
-*								                                                *
+* NO PONGAN TILDES. La codificacion difiere segun SO y          *
+* genera caracteres ilegibles                                   *
+*                                                               *
 *****************************************************************
 
 - Decir cuánto mola el viernes. [Javi]
